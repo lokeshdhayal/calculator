@@ -1,0 +1,19 @@
+.main {
+	padding-left: 100px;
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	margin-top: 200px;
+}
+.calBody{
+	border:2px solid black;
+	width:300px;
+	background-color: black;
+	color:white;
+}
+
+.calBtn{
+	color:red;
+	flex:4;
+	height:60px;
+}
